@@ -19,13 +19,21 @@ Bu uygulamada [OpenCV](https://opencv.org/releases.html) ve [tess-two](https://g
 
 Dikkat edilmesi gerekenler:
 -Plaka tespit edildikten sonra OCR işlemi için yazının yatay düzleme paralel olması gerekmektedir. (Resimdeki gibi kesme işlemi yapılırsa plaka okunamayacaktır.)
+
+
 ![egik plaka](https://github.com/satilmisyusuf/LicencePlateRecognition/blob/master/images/Resim3_res.png)
 
 - Kesme işlemi düzgün yapıldıktan sonra o resmi binary şekle çevrimemiz gerekir.
-![resim4](https://github.com/satilmisyusuf/LicencePlateRecognition/blob/master/images/Resim4_res.png)![resim5](https://github.com/satilmisyusuf/LicencePlateRecognition/blob/master/images/Resim5_res.png)
+
+
+![resim4](https://github.com/satilmisyusuf/LicencePlateRecognition/blob/master/images/Resim4_res.png)    -->   ![resim5](https://github.com/satilmisyusuf/LicencePlateRecognition/blob/master/images/Resim5_res.png)
 
 
 Uygulama tamamlandıktan sonra test ettik.
+
+
 ![resim6](https://github.com/satilmisyusuf/LicencePlateRecognition/blob/master/images/Resim6.png)
+
 ![resim7](https://github.com/satilmisyusuf/LicencePlateRecognition/blob/master/images/Resim7.png)
-![resim8](https://github.com/satilmisyusuf/LicencePlateRecognition/blob/master/images/Resim8.png)
+
+![resim8](https://github.com/satilmisyusuf/LicencePlateRecognition/blob/master/images/Resim9.png)
